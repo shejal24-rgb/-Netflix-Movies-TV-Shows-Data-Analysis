@@ -96,5 +96,21 @@ python analysis.py
 
 **Python | Pandas | NumPy | Matplotlib | Data Cleaning | Exploratory Data Analysis | Data Visualization | Statistical Analysis**
 
-## 🎯 Le
+🎯 Learning Objectives
+
+This project demonstrates how to:
+
+Load and inspect datasets
+Clean and prepare data
+Handle missing values
+Perform statistical analysis
+Group and aggregate data
+Extract meaningful insights
+Create professional data visualizations
+
+👩‍💻 Author
+
+Shejal Dhakate
+
+Data Analysis | Python | Pandas | NumPy | Matplotlib
 
