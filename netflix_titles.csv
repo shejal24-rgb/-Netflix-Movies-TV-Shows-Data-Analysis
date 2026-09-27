@@ -1,0 +1,51 @@
+show_id,type,title,director,country,date_added,release_year,rating
+s1,Movie,The Great Adventure,John Smith,United States,"January 1, 2020",2019,PG-13
+s2,TV Show,City Stories,Emma Brown,United States,"January 5, 2020",2018,TV-14
+s3,Movie,Lost in Mumbai,Raj Patel,India,"January 10, 2020",2019,PG-13
+s4,TV Show,Indian Kitchen,Anita Sharma,India,"February 1, 2020",2020,TV-G
+s5,Movie,The Last Mission,David Lee,United Kingdom,"February 10, 2020",2018,R
+s6,Movie,Love in Paris,Claire Martin,France,"March 2, 2020",2019,PG
+s7,TV Show,Tech World,Michael Clark,United States,"March 15, 2020",2020,TV-14
+s8,Movie,Mountain Life,Robert Wilson,Canada,"April 5, 2020",2017,PG
+s9,Movie,Dream Chaser,Sarah Johnson,United States,"April 20, 2020",2019,PG-13
+s10,TV Show,Delhi Diaries,Vikram Singh,India,"May 1, 2020",2020,TV-14
+s11,Movie,Ocean Mystery,James Anderson,Australia,"May 15, 2020",2018,PG-13
+s12,TV Show,The Detectives,Chris Taylor,United Kingdom,"June 1, 2020",2019,TV-MA
+s13,Movie,Family Time,Lisa Williams,United States,"June 15, 2020",2020,PG
+s14,Movie,Tokyo Nights,Hiro Tanaka,Japan,"July 1, 2020",2019,PG-13
+s15,TV Show,Food Journey,Anil Kumar,India,"July 20, 2020",2018,TV-G
+s16,Movie,Desert Storm,Mark Davis,United States,"August 5, 2020",2017,R
+s17,TV Show,Future World,Daniel Moore,Canada,"August 15, 2020",2020,TV-14
+s18,Movie,Hidden Truth,Nancy White,United Kingdom,"September 1, 2020",2019,TV-MA
+s19,Movie,Indian Dreams,Arjun Mehta,India,"September 15, 2020",2020,PG-13
+s20,TV Show,School Days,Emily Green,United States,"October 1, 2020",2019,TV-PG
+s21,Movie,Winter Story,Peter Hall,Canada,"October 15, 2020",2018,PG
+s22,Movie,City Lights,George King,United States,"November 1, 2020",2019,PG-13
+s23,TV Show,Medical Files,Laura Adams,United Kingdom,"November 15, 2020",2020,TV-MA
+s24,Movie,The Journey Home,Steven Scott,Australia,"December 1, 2020",2018,PG
+s25,Movie,Comedy Night,Tom Baker,United States,"December 15, 2020",2020,PG-13
+s26,TV Show,Wild Planet,James Wilson,Canada,"January 5, 2021",2019,TV-G
+s27,Movie,The Hacker,Alex Carter,United States,"January 20, 2021",2020,TV-14
+s28,TV Show,Royal Life,Sophia Miller,United Kingdom,"February 5, 2021",2019,TV-14
+s29,Movie,Indian Warrior,Manoj Rao,India,"February 20, 2021",2020,TV-MA
+s30,Movie,Space Mission,Robert Brown,United States,"March 5, 2021",2021,PG-13
+s31,TV Show,Ocean Life,Daniel Smith,Australia,"March 20, 2021",2020,TV-G
+s32,Movie,The Secret Door,Kevin Young,United States,"April 5, 2021",2019,PG
+s33,Movie,Paris Romance,Marie Dubois,France,"April 20, 2021",2020,PG-13
+s34,TV Show,Crime Files,John Miller,United States,"May 5, 2021",2021,TV-MA
+s35,Movie,The Final Game,Andrew Wilson,United Kingdom,"May 20, 2021",2020,PG-13
+s36,TV Show,Indian Stories,Priya Shah,India,"June 5, 2021",2021,TV-14
+s37,Movie,Forest Adventure,James Brown,Canada,"June 20, 2021",2019,PG
+s38,Movie,Future City,Michael Davis,United States,"July 5, 2021",2021,PG-13
+s39,TV Show,Travel Diaries,Sarah Lee,Australia,"July 20, 2021",2020,TV-PG
+s40,Movie,The Champion,David Johnson,United States,"August 5, 2021",2021,PG-13
+s41,Movie,Life in London,Chris Evans,United Kingdom,"August 20, 2021",2020,R
+s42,TV Show,Science World,Mark Wilson,United States,"September 5, 2021",2021,TV-G
+s43,Movie,Indian Festival,Rahul Verma,India,"September 20, 2021",2021,PG
+s44,Movie,The Escape,John Carter,United States,"October 5, 2021",2020,TV-14
+s45,TV Show,Modern Family,Emily Davis,Canada,"October 20, 2021",2021,TV-PG
+s46,Movie,Ocean Adventure,Robert Taylor,Australia,"November 5, 2021",2020,PG-13
+s47,Movie,Hidden City,James Anderson,United States,"November 20, 2021",2021,TV-MA
+s48,TV Show,Digital World,Alex Brown,United States,"December 5, 2021",2021,TV-14
+s49,Movie,The Photographer,Lisa Martin,France,"December 20, 2021",2020,PG
+s50,TV Show,The Final Chapter,David Clark,United Kingdom,"January 5, 2022",2021,TV-MA
